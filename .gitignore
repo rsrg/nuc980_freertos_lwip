@@ -1,0 +1,8 @@
+/.settings/
+/Debug/
+/Keil/lst/
+/Keil/obj/
+*.uvgui.*
+*.uvopt
+*.scvd
+JLinkArm_*.ini
