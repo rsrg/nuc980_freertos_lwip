@@ -2,7 +2,7 @@ LR_IROM1 0x0008000
 {
      EXE_IROM2 +0
      {  ; load address = execution address
-          startup_keil.o (NUC_INIT, +First)
+          startup.o (NUC_INIT, +First)
           *(InRoot$$Sections)
           .ANY (+RO)
      }

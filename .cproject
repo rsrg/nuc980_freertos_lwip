@@ -96,8 +96,10 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
+					<fileInfo id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.219660786.351309834" name="startup.s" rcbsApplicability="disable" resourcePath="Src/Startup/keil/startup.s" toolsToInvoke=""/>
+					<fileInfo id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.219660786.1338353454" name="vector.s" rcbsApplicability="disable" resourcePath="Src/Startup/keil/vector.s" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry excluding="Src/Startup/startup_keil.s|Keil|Src/Core/freertos/portable/MemMang/heap_3.c|Src/Core/freertos/portable/MemMang/heap_5.c|Src/Core/freertos/portable/MemMang/heap_4.c|Src/Core/freertos/portable/MemMang/heap_1.c|Src/Lib/FreeRTOS/Demo/Common/Minimal/TimerDemo.c|Src/Core/freertos/portable/RVDS" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Src/Startup/keil/vector.s|Src/Startup/keil/startup.s|Src/Startup/startup_keil.s|Keil|Src/Core/freertos/portable/MemMang/heap_3.c|Src/Core/freertos/portable/MemMang/heap_5.c|Src/Core/freertos/portable/MemMang/heap_4.c|Src/Core/freertos/portable/MemMang/heap_1.c|Src/Lib/FreeRTOS/Demo/Common/Minimal/TimerDemo.c|Src/Core/freertos/portable/RVDS" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

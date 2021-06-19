@@ -466,14 +466,14 @@
           <GroupName>Startup</GroupName>
           <Files>
             <File>
-              <FileName>startup_keil.s</FileName>
+              <FileName>startup.s</FileName>
               <FileType>2</FileType>
-              <FilePath>..\Src\Startup\startup_keil.s</FilePath>
+              <FilePath>..\Src\Startup\keil\startup.s</FilePath>
             </File>
             <File>
               <FileName>vector.s</FileName>
               <FileType>2</FileType>
-              <FilePath>..\Src\Driver\Source\vector.s</FilePath>
+              <FilePath>..\Src\Startup\keil\vector.s</FilePath>
             </File>
           </Files>
         </Group>
